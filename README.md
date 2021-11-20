@@ -5,6 +5,6 @@ Curso de C++ |
 PAUSE | BREAK | START
  -> 7. Contrutores e Destrutores - As múltiplas formas
 
-to compile: g++ nome_do_arquivo.cpp | 
+To compile: g++ nome_do_arquivo.cpp | 
  Run: a.exe
 
