@@ -3,7 +3,7 @@ Curso de C++ |
  Conexão com Banco de Dados
 
 PAUSE | BREAK | START
- -> aqiiiiiiiii
+ -> 7. Contrutores e Destrutores - As múltiplas formas
 
 to compile: g++ nome_do_arquivo.cpp | 
  Run: a.exe
